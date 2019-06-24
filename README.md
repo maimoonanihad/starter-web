@@ -10,5 +10,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 Adding Text to check git diff command
 Adding more text
+text
+One more change
 ## Deployment
 Deployment process
