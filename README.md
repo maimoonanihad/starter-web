@@ -8,5 +8,7 @@ This is example to show different parts of the Git Repository and various comman
 
 Sample website with plenty of files for demos
 ## How to contribute
+Adding Text to check git diff command
+Adding more text
 ## Deployment
 Deployment process
