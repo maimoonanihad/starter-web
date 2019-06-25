@@ -17,3 +17,4 @@ Deployment process
 
 ## Adding copy-rights
 git training- 2019
+#checking w/o FF
