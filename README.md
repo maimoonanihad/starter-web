@@ -14,3 +14,6 @@ text
 One more change
 ## Deployment
 Deployment process
+
+## Adding copy-rights
+git training- 2019
